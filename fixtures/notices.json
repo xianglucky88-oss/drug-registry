@@ -1,0 +1,4 @@
+[
+  {"notice_id":"N-1","drug_name":"安宁片","company":"示例制药","approval_number":" CN-001 ","revision_date":"2026-01-01","source_url":"fixture://n1","sections":{"适应症":"用于缓解症状。","不良反应":"恶心。"}},
+  {"notice_id":"N-2","drug_name":"安宁片","company":"示例制药","approval_number":"CN-001","revision_date":"2026-11-10","source_url":"fixture://n2","sections":{"适应症":"用于缓解症状。","不良反应":"恶心、头晕。","禁忌":"对本品过敏者禁用。"}}
+]
